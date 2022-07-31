@@ -1,0 +1,7484 @@
+fileFormatVersion: 2
+guid: dee76cb9d206ef74098c6a903091e68d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1102699568332843039
+    second: ramen_bg_0
+  - first:
+      213: 2527550826784509710
+    second: ramen_bg_1
+  - first:
+      213: -3665377684618399891
+    second: ramen_bg_2
+  - first:
+      213: -7695997038988753205
+    second: ramen_bg_3
+  - first:
+      213: 8973923519759642543
+    second: ramen_bg_4
+  - first:
+      213: -5770683134216857953
+    second: ramen_bg_5
+  - first:
+      213: 6436417561101960764
+    second: ramen_bg_6
+  - first:
+      213: -1244343264327886297
+    second: ramen_bg_7
+  - first:
+      213: -4653091061244546444
+    second: ramen_bg_8
+  - first:
+      213: -7400555732737397118
+    second: ramen_bg_9
+  - first:
+      213: -3425031373982108679
+    second: ramen_bg_10
+  - first:
+      213: -5350363389870699656
+    second: ramen_bg_11
+  - first:
+      213: 2004540441190342156
+    second: ramen_bg_12
+  - first:
+      213: 6880838829993529070
+    second: ramen_bg_13
+  - first:
+      213: 4420795234541680170
+    second: ramen_bg_14
+  - first:
+      213: 5531235292094536790
+    second: ramen_bg_15
+  - first:
+      213: 8792343521197848080
+    second: ramen_bg_16
+  - first:
+      213: 1453009070350016252
+    second: ramen_bg_17
+  - first:
+      213: -4116206906356708014
+    second: ramen_bg_18
+  - first:
+      213: -3058373788771810883
+    second: ramen_bg_19
+  - first:
+      213: -2467420910816460529
+    second: ramen_bg_20
+  - first:
+      213: 7896148022037355416
+    second: ramen_bg_21
+  - first:
+      213: -5062038481981345212
+    second: ramen_bg_22
+  - first:
+      213: 4877536498374552514
+    second: ramen_bg_23
+  - first:
+      213: 4840812330950432880
+    second: ramen_bg_24
+  - first:
+      213: -7227998278970472503
+    second: ramen_bg_25
+  - first:
+      213: 6588852040161065508
+    second: ramen_bg_26
+  - first:
+      213: -250191391820021380
+    second: ramen_bg_27
+  - first:
+      213: -7520027763029751322
+    second: ramen_bg_28
+  - first:
+      213: -285761290599680259
+    second: ramen_bg_29
+  - first:
+      213: 8027806146829374209
+    second: ramen_bg_30
+  - first:
+      213: -6358350751639731942
+    second: ramen_bg_31
+  - first:
+      213: -1372062573551342749
+    second: ramen_bg_32
+  - first:
+      213: -4876836875411786012
+    second: ramen_bg_33
+  - first:
+      213: -8640078491602359133
+    second: ramen_bg_34
+  - first:
+      213: 286931228716524768
+    second: ramen_bg_35
+  - first:
+      213: 4889652069529255430
+    second: ramen_bg_36
+  - first:
+      213: -9123492651743011809
+    second: ramen_bg_37
+  - first:
+      213: 7488121133252546207
+    second: ramen_bg_38
+  - first:
+      213: -2797306617344568788
+    second: ramen_bg_39
+  - first:
+      213: 4906048263633429813
+    second: ramen_bg_40
+  - first:
+      213: 6975845152921258166
+    second: ramen_bg_41
+  - first:
+      213: -8549557680095069884
+    second: ramen_bg_42
+  - first:
+      213: -6170004895499134424
+    second: ramen_bg_43
+  - first:
+      213: 2566041553494381106
+    second: ramen_bg_44
+  - first:
+      213: 5763516732916749739
+    second: ramen_bg_45
+  - first:
+      213: -1955045566858336298
+    second: ramen_bg_46
+  - first:
+      213: 4279121401479218808
+    second: ramen_bg_47
+  - first:
+      213: -4216610226246699923
+    second: ramen_bg_48
+  - first:
+      213: -2098217740608290645
+    second: ramen_bg_49
+  - first:
+      213: 2656870889061509689
+    second: ramen_bg_50
+  - first:
+      213: -842680641271590401
+    second: ramen_bg_51
+  - first:
+      213: -4246658506534962405
+    second: ramen_bg_52
+  - first:
+      213: -6738527683427808938
+    second: ramen_bg_53
+  - first:
+      213: 5745114879491763582
+    second: ramen_bg_54
+  - first:
+      213: 3681291118500095017
+    second: ramen_bg_55
+  - first:
+      213: -8827709908294013366
+    second: ramen_bg_56
+  - first:
+      213: -5348602582390527246
+    second: ramen_bg_57
+  - first:
+      213: -3429036917761904568
+    second: ramen_bg_58
+  - first:
+      213: -249457352567562856
+    second: ramen_bg_59
+  - first:
+      213: -6711167052746550920
+    second: ramen_bg_60
+  - first:
+      213: -7123129543809964631
+    second: ramen_bg_61
+  - first:
+      213: -2898019179630086596
+    second: ramen_bg_62
+  - first:
+      213: -5015779736944622079
+    second: ramen_bg_63
+  - first:
+      213: 8149036149111348458
+    second: ramen_bg_64
+  - first:
+      213: 6650784221917095095
+    second: ramen_bg_65
+  - first:
+      213: -6956118943195468260
+    second: ramen_bg_66
+  - first:
+      213: 114227060808588024
+    second: ramen_bg_67
+  - first:
+      213: -3831723926765412073
+    second: ramen_bg_68
+  - first:
+      213: 7398410844839853851
+    second: ramen_bg_69
+  - first:
+      213: 6108560786329311045
+    second: ramen_bg_70
+  - first:
+      213: 6804976543758066426
+    second: ramen_bg_71
+  - first:
+      213: -8755592063145242525
+    second: ramen_bg_72
+  - first:
+      213: 2234267346261962197
+    second: ramen_bg_73
+  - first:
+      213: -1111102927534369155
+    second: ramen_bg_74
+  - first:
+      213: 4742971366229013340
+    second: ramen_bg_75
+  - first:
+      213: -4547247108638803650
+    second: ramen_bg_76
+  - first:
+      213: -2980781394529956217
+    second: ramen_bg_77
+  - first:
+      213: -591438126898431474
+    second: ramen_bg_78
+  - first:
+      213: -668057043317063291
+    second: ramen_bg_79
+  - first:
+      213: 861615698498980424
+    second: ramen_bg_80
+  - first:
+      213: 2306540461203699399
+    second: ramen_bg_81
+  - first:
+      213: -3486684034478615037
+    second: ramen_bg_82
+  - first:
+      213: -30373722798802792
+    second: ramen_bg_83
+  - first:
+      213: 2132562180041880692
+    second: ramen_bg_84
+  - first:
+      213: 8860221815262532164
+    second: ramen_bg_85
+  - first:
+      213: 2251623033159986788
+    second: ramen_bg_86
+  - first:
+      213: 1967243627284921362
+    second: ramen_bg_87
+  - first:
+      213: 8384370555362363593
+    second: ramen_bg_88
+  - first:
+      213: -4775474889803027481
+    second: ramen_bg_89
+  - first:
+      213: 1998029021530578357
+    second: ramen_bg_90
+  - first:
+      213: 1628928887662098529
+    second: ramen_bg_91
+  - first:
+      213: -4885128060926890623
+    second: ramen_bg_92
+  - first:
+      213: 2790367660576998617
+    second: ramen_bg_93
+  - first:
+      213: 1155234178360260477
+    second: ramen_bg_94
+  - first:
+      213: -3823322766258704598
+    second: ramen_bg_95
+  - first:
+      213: -790249431187010717
+    second: ramen_bg_96
+  - first:
+      213: -3430239333143007910
+    second: ramen_bg_97
+  - first:
+      213: -107005866821956432
+    second: ramen_bg_98
+  - first:
+      213: -4508730896086014491
+    second: ramen_bg_99
+  - first:
+      213: -6954940918117642072
+    second: ramen_bg_100
+  - first:
+      213: 4039272327612396674
+    second: ramen_bg_101
+  - first:
+      213: 926675861799256662
+    second: ramen_bg_102
+  - first:
+      213: -364421479178182446
+    second: ramen_bg_103
+  - first:
+      213: -7872663035691234410
+    second: ramen_bg_104
+  - first:
+      213: -5650797527350852073
+    second: ramen_bg_105
+  - first:
+      213: -7364111264352764858
+    second: ramen_bg_106
+  - first:
+      213: -3708021747824512400
+    second: ramen_bg_107
+  - first:
+      213: 1975916791420086674
+    second: ramen_bg_108
+  - first:
+      213: 8643521257525322967
+    second: ramen_bg_109
+  - first:
+      213: -6680338684852272426
+    second: ramen_bg_110
+  - first:
+      213: 6680385776837644633
+    second: ramen_bg_111
+  - first:
+      213: 3383203074609195853
+    second: ramen_bg_112
+  - first:
+      213: -9200429593259576154
+    second: ramen_bg_113
+  - first:
+      213: 3975660090885521137
+    second: ramen_bg_114
+  - first:
+      213: 797074993126958431
+    second: ramen_bg_115
+  - first:
+      213: 3799102099705994056
+    second: ramen_bg_116
+  - first:
+      213: 2703864872897126239
+    second: ramen_bg_117
+  - first:
+      213: 7616320307315915449
+    second: ramen_bg_118
+  - first:
+      213: 8794047420996338083
+    second: ramen_bg_119
+  - first:
+      213: 4556169005922079426
+    second: ramen_bg_120
+  - first:
+      213: -3318363674137787660
+    second: ramen_bg_121
+  - first:
+      213: -4008023900495902643
+    second: ramen_bg_122
+  - first:
+      213: 1014587546250237067
+    second: ramen_bg_123
+  - first:
+      213: -2115927947677351664
+    second: ramen_bg_124
+  - first:
+      213: -4677732055689703068
+    second: ramen_bg_125
+  - first:
+      213: -6543436758912949736
+    second: ramen_bg_126
+  - first:
+      213: 3359172701293296849
+    second: ramen_bg_127
+  - first:
+      213: -840980979806173289
+    second: ramen_bg_128
+  - first:
+      213: -8128761246384916476
+    second: ramen_bg_129
+  - first:
+      213: -8241578300534800583
+    second: ramen_bg_130
+  - first:
+      213: 4504847667646136585
+    second: ramen_bg_131
+  - first:
+      213: 2966958338827567235
+    second: ramen_bg_132
+  - first:
+      213: 4900369710790583155
+    second: ramen_bg_133
+  - first:
+      213: -7256722341405483731
+    second: ramen_bg_134
+  - first:
+      213: 184913574399086579
+    second: ramen_bg_135
+  - first:
+      213: 253798232020906295
+    second: ramen_bg_136
+  - first:
+      213: -3563535377638166035
+    second: ramen_bg_137
+  - first:
+      213: 1638481177521556001
+    second: ramen_bg_138
+  - first:
+      213: -636627048206698679
+    second: ramen_bg_139
+  - first:
+      213: -2910575748963770631
+    second: ramen_bg_140
+  - first:
+      213: 1161185273781570339
+    second: ramen_bg_141
+  - first:
+      213: 712274047796992208
+    second: ramen_bg_142
+  - first:
+      213: -4579921965896983417
+    second: ramen_bg_143
+  - first:
+      213: 7432840377734043538
+    second: ramen_bg_144
+  - first:
+      213: 1005671651183855600
+    second: ramen_bg_145
+  - first:
+      213: 5908333800244344623
+    second: ramen_bg_146
+  - first:
+      213: 1562219348467132516
+    second: ramen_bg_147
+  - first:
+      213: 8857517134863009941
+    second: ramen_bg_148
+  - first:
+      213: -6182902043040193876
+    second: ramen_bg_149
+  - first:
+      213: 2246989187978959675
+    second: ramen_bg_150
+  - first:
+      213: -3822240790345097236
+    second: ramen_bg_151
+  - first:
+      213: 6590501998686803814
+    second: ramen_bg_152
+  - first:
+      213: -5494709992595568467
+    second: ramen_bg_153
+  - first:
+      213: 1069150950120945047
+    second: ramen_bg_154
+  - first:
+      213: 7824876006945229293
+    second: ramen_bg_155
+  - first:
+      213: 3490450497304663290
+    second: ramen_bg_156
+  - first:
+      213: -4726467591997792266
+    second: ramen_bg_157
+  - first:
+      213: -8474167960137758674
+    second: ramen_bg_158
+  - first:
+      213: 20338771717761633
+    second: ramen_bg_159
+  - first:
+      213: 3286587222822454560
+    second: ramen_bg_160
+  - first:
+      213: 4987761210802940988
+    second: ramen_bg_161
+  - first:
+      213: 251031395337856043
+    second: ramen_bg_162
+  - first:
+      213: 8969560059304843010
+    second: ramen_bg_163
+  - first:
+      213: -1444713372173293045
+    second: ramen_bg_164
+  - first:
+      213: -7641268456269068284
+    second: ramen_bg_165
+  - first:
+      213: 3717138920626177285
+    second: ramen_bg_166
+  - first:
+      213: -2564319776355079396
+    second: ramen_bg_167
+  - first:
+      213: 9219746011753469714
+    second: ramen_bg_168
+  - first:
+      213: -2067323900611316063
+    second: ramen_bg_169
+  - first:
+      213: -7494028057001216075
+    second: ramen_bg_170
+  - first:
+      213: 5695418732329645103
+    second: ramen_bg_171
+  - first:
+      213: -801638440296669062
+    second: ramen_bg_172
+  - first:
+      213: 5568784443802735558
+    second: ramen_bg_173
+  - first:
+      213: -4269450279094361334
+    second: ramen_bg_174
+  - first:
+      213: 3325442930844058908
+    second: ramen_bg_175
+  - first:
+      213: -9221327916049049408
+    second: ramen_bg_176
+  - first:
+      213: 8202091744238761418
+    second: ramen_bg_177
+  - first:
+      213: 1027906316479958441
+    second: ramen_bg_178
+  - first:
+      213: -4964499775398280663
+    second: ramen_bg_179
+  - first:
+      213: -5929539231952516911
+    second: ramen_bg_180
+  - first:
+      213: 713422434649077525
+    second: ramen_bg_181
+  - first:
+      213: -8261965819721115099
+    second: ramen_bg_182
+  - first:
+      213: -7450545676884970100
+    second: ramen_bg_183
+  - first:
+      213: -3089414959583243428
+    second: ramen_bg_184
+  - first:
+      213: -2523441856371896235
+    second: ramen_bg_185
+  - first:
+      213: -2886665619146696498
+    second: ramen_bg_186
+  - first:
+      213: -2058222432725477003
+    second: ramen_bg_187
+  - first:
+      213: 3252166609440798430
+    second: ramen_bg_188
+  - first:
+      213: 4073350993633948638
+    second: ramen_bg_189
+  - first:
+      213: 2463243865387468382
+    second: ramen_bg_190
+  - first:
+      213: -5555185335409902974
+    second: ramen_bg_191
+  - first:
+      213: 4428040022973445735
+    second: ramen_bg_192
+  - first:
+      213: 1209199897576772094
+    second: ramen_bg_193
+  - first:
+      213: -1847636121785156798
+    second: ramen_bg_194
+  - first:
+      213: 213670940905196963
+    second: ramen_bg_195
+  - first:
+      213: -1882057790814214204
+    second: ramen_bg_196
+  - first:
+      213: 2108860529162333169
+    second: ramen_bg_197
+  - first:
+      213: -652267247697219863
+    second: ramen_bg_198
+  - first:
+      213: -4908433976749257962
+    second: ramen_bg_199
+  - first:
+      213: -5332424968605876723
+    second: ramen_bg_200
+  - first:
+      213: 4774716286303760142
+    second: ramen_bg_201
+  - first:
+      213: -3967872308672248656
+    second: ramen_bg_202
+  - first:
+      213: 2446394798995085829
+    second: ramen_bg_203
+  - first:
+      213: 8236693946660268578
+    second: ramen_bg_204
+  - first:
+      213: -7511728148875337930
+    second: ramen_bg_205
+  - first:
+      213: -3125949752102005403
+    second: ramen_bg_206
+  - first:
+      213: -8397901678303683141
+    second: ramen_bg_207
+  - first:
+      213: -6838708905979001302
+    second: ramen_bg_208
+  - first:
+      213: -6885588260560468237
+    second: ramen_bg_209
+  - first:
+      213: -4171873273013262377
+    second: ramen_bg_210
+  - first:
+      213: 426192395548417746
+    second: ramen_bg_211
+  - first:
+      213: 7579495658437152928
+    second: ramen_bg_212
+  - first:
+      213: -8085993835321841776
+    second: ramen_bg_213
+  - first:
+      213: 4259390010703191233
+    second: ramen_bg_214
+  - first:
+      213: -2484132855404411413
+    second: ramen_bg_215
+  - first:
+      213: -4560919002634914145
+    second: ramen_bg_216
+  - first:
+      213: -6860172167141210167
+    second: ramen_bg_217
+  - first:
+      213: 7232428354236980398
+    second: ramen_bg_218
+  - first:
+      213: 4083601859948985244
+    second: ramen_bg_219
+  - first:
+      213: -874592325088000564
+    second: ramen_bg_220
+  - first:
+      213: -1923441553754874221
+    second: ramen_bg_221
+  - first:
+      213: 1315584818035945238
+    second: ramen_bg_222
+  - first:
+      213: 5793376065959744091
+    second: ramen_bg_223
+  - first:
+      213: -5548916745080495892
+    second: ramen_bg_224
+  - first:
+      213: 8664903147601940671
+    second: ramen_bg_225
+  - first:
+      213: -5900583100519260060
+    second: ramen_bg_226
+  - first:
+      213: -7508615370745351095
+    second: ramen_bg_227
+  - first:
+      213: 8463458417723207479
+    second: ramen_bg_228
+  - first:
+      213: 3153900115753884059
+    second: ramen_bg_229
+  - first:
+      213: 1569690528972830791
+    second: ramen_bg_230
+  - first:
+      213: -7997803694974056349
+    second: ramen_bg_231
+  - first:
+      213: 5397205851250509020
+    second: ramen_bg_232
+  - first:
+      213: -4937436359729403052
+    second: ramen_bg_233
+  - first:
+      213: -7778374896086934645
+    second: ramen_bg_234
+  - first:
+      213: -7616336108184675034
+    second: ramen_bg_235
+  - first:
+      213: -8791482648263304221
+    second: ramen_bg_236
+  - first:
+      213: -4956566825036380158
+    second: ramen_bg_237
+  - first:
+      213: -4781554846507068816
+    second: ramen_bg_238
+  - first:
+      213: -6997292230269618412
+    second: ramen_bg_239
+  - first:
+      213: 2636409588642879957
+    second: ramen_bg_240
+  - first:
+      213: -1216021267109339195
+    second: ramen_bg_241
+  - first:
+      213: 8989102590239551239
+    second: ramen_bg_242
+  - first:
+      213: 7700681623581729468
+    second: ramen_bg_243
+  - first:
+      213: -5569147431978477430
+    second: ramen_bg_244
+  - first:
+      213: 5239854482781691119
+    second: ramen_bg_245
+  - first:
+      213: 8428155375348976839
+    second: ramen_bg_246
+  - first:
+      213: 7170819800188922456
+    second: ramen_bg_247
+  - first:
+      213: 6944362795950515876
+    second: ramen_bg_248
+  - first:
+      213: 6863828493837033748
+    second: ramen_bg_249
+  - first:
+      213: -5774296774568519482
+    second: ramen_bg_250
+  - first:
+      213: -9126075014886181976
+    second: ramen_bg_251
+  - first:
+      213: 6529781927391497908
+    second: ramen_bg_252
+  - first:
+      213: -4020971132049437612
+    second: ramen_bg_253
+  - first:
+      213: 1626220114425385118
+    second: ramen_bg_254
+  - first:
+      213: 30738913660388695
+    second: ramen_bg_255
+  - first:
+      213: 2298162996072291063
+    second: ramen_bg_256
+  - first:
+      213: 158044638375957761
+    second: ramen_bg_257
+  - first:
+      213: 5008366791762349410
+    second: ramen_bg_258
+  - first:
+      213: 4065695916610627279
+    second: ramen_bg_259
+  - first:
+      213: 3184678944522161414
+    second: ramen_bg_260
+  - first:
+      213: -4821229829414936033
+    second: ramen_bg_261
+  - first:
+      213: 1833336591751526035
+    second: ramen_bg_262
+  - first:
+      213: 5275160231066542079
+    second: ramen_bg_263
+  - first:
+      213: -2066392824688800814
+    second: ramen_bg_264
+  - first:
+      213: -1838488494321132798
+    second: ramen_bg_265
+  - first:
+      213: 3716012118060313507
+    second: ramen_bg_266
+  - first:
+      213: -4535790927715709540
+    second: ramen_bg_267
+  - first:
+      213: -8270600400056236955
+    second: ramen_bg_268
+  - first:
+      213: 5724480502221804853
+    second: ramen_bg_269
+  - first:
+      213: 7831997429965139837
+    second: ramen_bg_270
+  - first:
+      213: -5945712168636150115
+    second: ramen_bg_271
+  - first:
+      213: -4531355250784019276
+    second: ramen_bg_272
+  - first:
+      213: 1710109624952586897
+    second: ramen_bg_273
+  - first:
+      213: 8384435886972450175
+    second: ramen_bg_274
+  - first:
+      213: -183605515502765289
+    second: ramen_bg_275
+  - first:
+      213: -1481074286710819557
+    second: ramen_bg_276
+  - first:
+      213: 6229341456093773159
+    second: ramen_bg_277
+  - first:
+      213: 2195273223605245338
+    second: ramen_bg_278
+  - first:
+      213: 4961403429318847329
+    second: ramen_bg_279
+  - first:
+      213: 1833562766498415989
+    second: ramen_bg_280
+  - first:
+      213: 1555529705519699771
+    second: ramen_bg_281
+  - first:
+      213: -2113484045129201774
+    second: ramen_bg_282
+  - first:
+      213: -2225960441308791523
+    second: ramen_bg_283
+  - first:
+      213: -4437332879624572076
+    second: ramen_bg_284
+  - first:
+      213: -762657367908995504
+    second: ramen_bg_285
+  - first:
+      213: -3637070608463075496
+    second: ramen_bg_286
+  - first:
+      213: -5631543312476640541
+    second: ramen_bg_287
+  - first:
+      213: 6237572199430848449
+    second: ramen_bg_288
+  - first:
+      213: 8056486236450209065
+    second: ramen_bg_289
+  - first:
+      213: 4549846639420859382
+    second: ramen_bg_290
+  - first:
+      213: -5522073464584725386
+    second: ramen_bg_291
+  - first:
+      213: 7289505588549997036
+    second: ramen_bg_292
+  - first:
+      213: 3064980090387140869
+    second: ramen_bg_293
+  - first:
+      213: -3539060752476492431
+    second: ramen_bg_294
+  - first:
+      213: -2254136691869176793
+    second: ramen_bg_295
+  - first:
+      213: -8938163974304523081
+    second: ramen_bg_296
+  - first:
+      213: -3196353319698975577
+    second: ramen_bg_297
+  - first:
+      213: -5451854541373778390
+    second: ramen_bg_298
+  - first:
+      213: -2861794513833279438
+    second: ramen_bg_299
+  - first:
+      213: 2922011243661232462
+    second: ramen_bg_300
+  - first:
+      213: -4430968670799879384
+    second: ramen_bg_301
+  - first:
+      213: -6949350383919531886
+    second: ramen_bg_302
+  - first:
+      213: -8858360887304879381
+    second: ramen_bg_303
+  - first:
+      213: -5307282541794431177
+    second: ramen_bg_304
+  - first:
+      213: -2069677145499689651
+    second: ramen_bg_305
+  - first:
+      213: -4481093548785434483
+    second: ramen_bg_306
+  - first:
+      213: 4197605567571381345
+    second: ramen_bg_307
+  - first:
+      213: -5307359646407695206
+    second: ramen_bg_308
+  - first:
+      213: 4510783053925274979
+    second: ramen_bg_309
+  - first:
+      213: 1746693154143020195
+    second: ramen_bg_310
+  - first:
+      213: -7487636291727307543
+    second: ramen_bg_311
+  - first:
+      213: 7665866754478909640
+    second: ramen_bg_312
+  - first:
+      213: 7153317965268156936
+    second: ramen_bg_313
+  - first:
+      213: 5073438878683390337
+    second: ramen_bg_314
+  - first:
+      213: 7416283140250321223
+    second: ramen_bg_315
+  - first:
+      213: -3343076898239604450
+    second: ramen_bg_316
+  - first:
+      213: 2412971114670662133
+    second: ramen_bg_317
+  - first:
+      213: 1110542208092582640
+    second: ramen_bg_318
+  - first:
+      213: -1162954654702960272
+    second: ramen_bg_319
+  - first:
+      213: -2203138315226973849
+    second: ramen_bg_320
+  - first:
+      213: 5051954507115204754
+    second: ramen_bg_321
+  - first:
+      213: 4986119859408706327
+    second: ramen_bg_322
+  - first:
+      213: 8549801887769886369
+    second: ramen_bg_323
+  - first:
+      213: 3395727436784298485
+    second: ramen_bg_324
+  - first:
+      213: 1079250220257818576
+    second: ramen_bg_325
+  - first:
+      213: 3135798377560266365
+    second: ramen_bg_326
+  - first:
+      213: -4238740118640519673
+    second: ramen_bg_327
+  - first:
+      213: -445864492798452791
+    second: ramen_bg_328
+  - first:
+      213: -8464348225771488435
+    second: ramen_bg_329
+  - first:
+      213: -7518799532222658280
+    second: ramen_bg_330
+  - first:
+      213: 5731832308151712590
+    second: ramen_bg_331
+  - first:
+      213: -7738130822957759995
+    second: ramen_bg_332
+  - first:
+      213: 4863200803290788443
+    second: ramen_bg_333
+  - first:
+      213: -1311430490896108290
+    second: ramen_bg_334
+  - first:
+      213: 6733960404301488164
+    second: ramen_bg_335
+  - first:
+      213: -5241555884496675382
+    second: ramen_bg_336
+  - first:
+      213: 6525493797626924710
+    second: ramen_bg_337
+  - first:
+      213: -1612251790712653761
+    second: ramen_bg_338
+  - first:
+      213: -6986726638797205590
+    second: ramen_bg_339
+  - first:
+      213: -4918459176063362479
+    second: ramen_bg_340
+  - first:
+      213: 915149543412999648
+    second: ramen_bg_341
+  - first:
+      213: -8267319188717255997
+    second: ramen_bg_342
+  - first:
+      213: -7137213120951866269
+    second: ramen_bg_343
+  - first:
+      213: -3653473138135450775
+    second: ramen_bg_344
+  - first:
+      213: 2932536049361552709
+    second: ramen_bg_345
+  - first:
+      213: -9151670859721720545
+    second: ramen_bg_346
+  - first:
+      213: -2540955206150619434
+    second: ramen_bg_347
+  - first:
+      213: 6442296033875501735
+    second: ramen_bg_348
+  - first:
+      213: -2050849704178135988
+    second: ramen_bg_349
+  - first:
+      213: 4434339261877410309
+    second: ramen_bg_350
+  - first:
+      213: 255778791791180909
+    second: ramen_bg_351
+  - first:
+      213: 843155461502444651
+    second: ramen_bg_352
+  - first:
+      213: 1709613994355744822
+    second: ramen_bg_353
+  - first:
+      213: 3055778487182596082
+    second: ramen_bg_354
+  - first:
+      213: -4059562680827397934
+    second: ramen_bg_355
+  - first:
+      213: -8343328280923196716
+    second: ramen_bg_356
+  - first:
+      213: -7345623510120686460
+    second: ramen_bg_357
+  - first:
+      213: -747520466637783168
+    second: ramen_bg_358
+  - first:
+      213: -9118480480437205942
+    second: ramen_bg_359
+  - first:
+      213: -7074063779445692863
+    second: ramen_bg_360
+  - first:
+      213: 4948619208754386234
+    second: ramen_bg_361
+  - first:
+      213: 4943542002371024978
+    second: ramen_bg_362
+  - first:
+      213: 2983477616137977424
+    second: ramen_bg_363
+  - first:
+      213: -1441238874610454629
+    second: ramen_bg_364
+  - first:
+      213: -7784727277830535852
+    second: ramen_bg_365
+  - first:
+      213: -5224583799731803547
+    second: ramen_bg_366
+  - first:
+      213: -3276270899448689332
+    second: ramen_bg_367
+  - first:
+      213: -2525493463366487222
+    second: ramen_bg_368
+  - first:
+      213: 3584299644534434399
+    second: ramen_bg_369
+  - first:
+      213: -2428740513348295669
+    second: ramen_bg_370
+  - first:
+      213: 7367135963886446447
+    second: ramen_bg_371
+  - first:
+      213: -5752435850344269048
+    second: ramen_bg_372
+  - first:
+      213: -1992850685819100654
+    second: ramen_bg_373
+  - first:
+      213: -4238099459376445071
+    second: ramen_bg_374
+  - first:
+      213: 555400521799502479
+    second: ramen_bg_375
+  - first:
+      213: 4733016716500439004
+    second: ramen_bg_376
+  - first:
+      213: 7332829160813276609
+    second: ramen_bg_377
+  - first:
+      213: -5910554402010244634
+    second: ramen_bg_378
+  - first:
+      213: 5477035128485467355
+    second: ramen_bg_379
+  - first:
+      213: -6678253235602940678
+    second: ramen_bg_380
+  - first:
+      213: 7164441860355372086
+    second: ramen_bg_381
+  - first:
+      213: 4643891382967063365
+    second: ramen_bg_382
+  - first:
+      213: -3766770588482342770
+    second: ramen_bg_383
+  - first:
+      213: -3876818657741861761
+    second: ramen_bg_384
+  - first:
+      213: -7475520743387204750
+    second: ramen_bg_385
+  - first:
+      213: -2757596215573274963
+    second: ramen_bg_386
+  - first:
+      213: 2134193062328988780
+    second: ramen_bg_387
+  - first:
+      213: 3875159497549874386
+    second: ramen_bg_388
+  - first:
+      213: 8044333440064616385
+    second: ramen_bg_389
+  - first:
+      213: -4090617281632972095
+    second: ramen_bg_390
+  - first:
+      213: -4798266708206540190
+    second: ramen_bg_391
+  - first:
+      213: -5158808691844143766
+    second: ramen_bg_392
+  - first:
+      213: 4656793072780761408
+    second: ramen_bg_393
+  - first:
+      213: -3476905411408306800
+    second: ramen_bg_394
+  - first:
+      213: 3322865870222804658
+    second: ramen_bg_395
+  - first:
+      213: 4625994194728472839
+    second: ramen_bg_396
+  - first:
+      213: -7259164860754978062
+    second: ramen_bg_397
+  - first:
+      213: 4882518078321373621
+    second: ramen_bg_398
+  - first:
+      213: -6892957802969178620
+    second: ramen_bg_399
+  - first:
+      213: 7014014403033395227
+    second: ramen_bg_400
+  - first:
+      213: 2075014980842868287
+    second: ramen_bg_401
+  - first:
+      213: -6475820096316417838
+    second: ramen_bg_402
+  - first:
+      213: 4249900545515099669
+    second: ramen_bg_403
+  - first:
+      213: -7307816750373861646
+    second: ramen_bg_404
+  - first:
+      213: 6827823273303164137
+    second: ramen_bg_405
+  - first:
+      213: 2746942688767949685
+    second: ramen_bg_406
+  - first:
+      213: -567361084628884192
+    second: ramen_bg_407
+  - first:
+      213: -274049178893385149
+    second: ramen_bg_408
+  - first:
+      213: -2997925906111153517
+    second: ramen_bg_409
+  - first:
+      213: 5526688165042530344
+    second: ramen_bg_410
+  - first:
+      213: 5241099101879232249
+    second: ramen_bg_411
+  - first:
+      213: -3340795986483357913
+    second: ramen_bg_412
+  - first:
+      213: 5821810058608560312
+    second: ramen_bg_413
+  - first:
+      213: 6992096760062848824
+    second: ramen_bg_414
+  - first:
+      213: 5579405954689094550
+    second: ramen_bg_415
+  - first:
+      213: -5700237487928275193
+    second: ramen_bg_416
+  - first:
+      213: 1435870023142137742
+    second: ramen_bg_417
+  - first:
+      213: -3704625597279328846
+    second: ramen_bg_418
+  - first:
+      213: -7989617077184680810
+    second: ramen_bg_419
+  - first:
+      213: -6806077082110803627
+    second: ramen_bg_420
+  - first:
+      213: -1052872033947653284
+    second: ramen_bg_421
+  - first:
+      213: -1536392538781816070
+    second: ramen_bg_422
+  - first:
+      213: 2753797563212006048
+    second: ramen_bg_423
+  - first:
+      213: -8324146747292579937
+    second: ramen_bg_424
+  - first:
+      213: 6953438376822218376
+    second: ramen_bg_425
+  - first:
+      213: -8736724037218392024
+    second: ramen_bg_426
+  - first:
+      213: 5491143627495694088
+    second: ramen_bg_427
+  - first:
+      213: 8454395039509557015
+    second: ramen_bg_428
+  - first:
+      213: -6820318581525173915
+    second: ramen_bg_429
+  - first:
+      213: 5792825601573147550
+    second: ramen_bg_430
+  - first:
+      213: 5573271444975828079
+    second: ramen_bg_431
+  - first:
+      213: -4907700544565806132
+    second: ramen_bg_432
+  - first:
+      213: 6092629418405288058
+    second: ramen_bg_433
+  - first:
+      213: 5211394158109489853
+    second: ramen_bg_434
+  - first:
+      213: -5797226930007441075
+    second: ramen_bg_435
+  - first:
+      213: 7727266010889987912
+    second: ramen_bg_436
+  - first:
+      213: -7296959702757722990
+    second: ramen_bg_437
+  - first:
+      213: 989201857969483548
+    second: ramen_bg_438
+  - first:
+      213: -2847090777941293927
+    second: ramen_bg_439
+  - first:
+      213: 5535681006037184092
+    second: ramen_bg_440
+  - first:
+      213: 4565786481576965429
+    second: ramen_bg_441
+  - first:
+      213: -3581433145588770285
+    second: ramen_bg_442
+  - first:
+      213: -366953909678174618
+    second: ramen_bg_443
+  - first:
+      213: -3809883410653921654
+    second: ramen_bg_444
+  - first:
+      213: 8973235439244064634
+    second: ramen_bg_445
+  - first:
+      213: -8020765661346604898
+    second: ramen_bg_446
+  - first:
+      213: 5562374815097845744
+    second: ramen_bg_447
+  - first:
+      213: -1835681203059607281
+    second: ramen_bg_448
+  - first:
+      213: 1205627564497460586
+    second: ramen_bg_449
+  - first:
+      213: -7027570136003757891
+    second: ramen_bg_450
+  - first:
+      213: -7898558934227922867
+    second: ramen_bg_451
+  - first:
+      213: 7021952158992041875
+    second: ramen_bg_452
+  - first:
+      213: -8071648322219308325
+    second: ramen_bg_453
+  - first:
+      213: 7049179971950196307
+    second: ramen_bg_454
+  - first:
+      213: 4305021021949933164
+    second: ramen_bg_455
+  - first:
+      213: 7513305170382791151
+    second: ramen_bg_456
+  - first:
+      213: -870656471558898488
+    second: ramen_bg_457
+  - first:
+      213: 3386214816944739790
+    second: ramen_bg_458
+  - first:
+      213: -2160286163728069700
+    second: ramen_bg_459
+  - first:
+      213: -7331485295265634626
+    second: ramen_bg_460
+  - first:
+      213: 6608190611883294588
+    second: ramen_bg_461
+  - first:
+      213: -2582554613883079658
+    second: ramen_bg_462
+  - first:
+      213: -611461440633287249
+    second: ramen_bg_463
+  - first:
+      213: -5907458688016547345
+    second: ramen_bg_464
+  - first:
+      213: -7364023270632182753
+    second: ramen_bg_465
+  - first:
+      213: 6795983929405581181
+    second: ramen_bg_466
+  - first:
+      213: -7615891950842679982
+    second: ramen_bg_467
+  - first:
+      213: 8420789033011820410
+    second: ramen_bg_468
+  - first:
+      213: 228892864851748350
+    second: ramen_bg_469
+  - first:
+      213: 2565010397029093451
+    second: ramen_bg_470
+  - first:
+      213: 5141908318739598491
+    second: ramen_bg_471
+  - first:
+      213: 8102673191962710558
+    second: ramen_bg_472
+  - first:
+      213: 8057857125525887483
+    second: ramen_bg_473
+  - first:
+      213: 5703750756136061249
+    second: ramen_bg_474
+  - first:
+      213: -4104569882064662747
+    second: ramen_bg_475
+  - first:
+      213: 1051519931456407907
+    second: ramen_bg_476
+  - first:
+      213: -6835439327207906856
+    second: ramen_bg_477
+  - first:
+      213: 1121548408241161194
+    second: ramen_bg_478
+  - first:
+      213: 4536487978416805762
+    second: ramen_bg_479
+  - first:
+      213: 8823369964040508505
+    second: ramen_bg_480
+  - first:
+      213: -7587155293916618671
+    second: ramen_bg_481
+  - first:
+      213: -6820297925804599454
+    second: ramen_bg_482
+  - first:
+      213: 4540094566416866800
+    second: ramen_bg_483
+  - first:
+      213: 3527019194402546014
+    second: ramen_bg_484
+  - first:
+      213: -7126196406692649241
+    second: ramen_bg_485
+  - first:
+      213: 7218742325141820795
+    second: ramen_bg_486
+  - first:
+      213: 3209386268123833071
+    second: ramen_bg_487
+  - first:
+      213: 7062133657158578608
+    second: ramen_bg_488
+  - first:
+      213: -6631141659679387892
+    second: ramen_bg_489
+  - first:
+      213: 8023412619680480714
+    second: ramen_bg_490
+  - first:
+      213: -4451271715222824910
+    second: ramen_bg_491
+  - first:
+      213: 1798001562318104368
+    second: ramen_bg_492
+  - first:
+      213: -3494653886782862893
+    second: ramen_bg_493
+  - first:
+      213: -6966179113747674548
+    second: ramen_bg_494
+  - first:
+      213: -1946863303616086936
+    second: ramen_bg_495
+  - first:
+      213: 7397309240128944760
+    second: ramen_bg_496
+  - first:
+      213: -7484163181609187876
+    second: ramen_bg_497
+  - first:
+      213: 6973761729262608109
+    second: ramen_bg_498
+  - first:
+      213: -3539858049519510317
+    second: ramen_bg_499
+  - first:
+      213: -2887181202630764177
+    second: ramen_bg_500
+  - first:
+      213: -6660161621544156992
+    second: ramen_bg_501
+  - first:
+      213: -8304245307834168681
+    second: ramen_bg_502
+  - first:
+      213: -8499116869090580205
+    second: ramen_bg_503
+  - first:
+      213: -1392466210260663132
+    second: ramen_bg_504
+  - first:
+      213: 2409833931717502323
+    second: ramen_bg_505
+  - first:
+      213: 3810416618322961707
+    second: ramen_bg_506
+  - first:
+      213: -2007351326503599880
+    second: ramen_bg_507
+  - first:
+      213: 1555675894735307358
+    second: ramen_bg_508
+  - first:
+      213: -7355685418338965532
+    second: ramen_bg_509
+  - first:
+      213: -1387914972025820974
+    second: ramen_bg_510
+  - first:
+      213: -5803588396343856781
+    second: ramen_bg_511
+  - first:
+      213: -2597790991908740938
+    second: ramen_bg_512
+  - first:
+      213: -373514610581267648
+    second: ramen_bg_513
+  - first:
+      213: 4918809686511182679
+    second: ramen_bg_514
+  - first:
+      213: -212601535553826903
+    second: ramen_bg_515
+  - first:
+      213: 7978659462648027100
+    second: ramen_bg_516
+  - first:
+      213: 8059641791305417055
+    second: ramen_bg_517
+  - first:
+      213: 6047147518089443543
+    second: ramen_bg_518
+  - first:
+      213: -4535152520772001098
+    second: ramen_bg_519
+  - first:
+      213: -5399924174586152303
+    second: ramen_bg_520
+  - first:
+      213: -6506850746189271062
+    second: ramen_bg_521
+  - first:
+      213: 8281057432549721304
+    second: ramen_bg_522
+  - first:
+      213: -2814528675726479337
+    second: ramen_bg_523
+  - first:
+      213: 816498102913955379
+    second: ramen_bg_524
+  - first:
+      213: 3453878819881091032
+    second: ramen_bg_525
+  - first:
+      213: 3143713297517591089
+    second: ramen_bg_526
+  - first:
+      213: 2060182434687810546
+    second: ramen_bg_527
+  - first:
+      213: -4748713371692823402
+    second: ramen_bg_528
+  - first:
+      213: -3883291073605502972
+    second: ramen_bg_529
+  - first:
+      213: -5770418062565809471
+    second: ramen_bg_530
+  - first:
+      213: -5007587509335413940
+    second: ramen_bg_531
+  - first:
+      213: 5730971927537879604
+    second: ramen_bg_532
+  - first:
+      213: 8392142226371258111
+    second: ramen_bg_533
+  - first:
+      213: -6028107169463082903
+    second: ramen_bg_534
+  - first:
+      213: -5448255792352544642
+    second: ramen_bg_535
+  - first:
+      213: -1638215440293765686
+    second: ramen_bg_536
+  - first:
+      213: 537573625871910407
+    second: ramen_bg_537
+  - first:
+      213: 261050144183871936
+    second: ramen_bg_538
+  - first:
+      213: -7908383782096444182
+    second: ramen_bg_539
+  - first:
+      213: -4767628690017316537
+    second: ramen_bg_540
+  - first:
+      213: 4520607235029487292
+    second: ramen_bg_541
+  - first:
+      213: -5667266100865676364
+    second: ramen_bg_542
+  - first:
+      213: -6796354681487544006
+    second: ramen_bg_543
+  - first:
+      213: -1052473028648736613
+    second: ramen_bg_544
+  - first:
+      213: -3104641727825197639
+    second: ramen_bg_545
+  - first:
+      213: -3382983105313301705
+    second: ramen_bg_546
+  - first:
+      213: 795282881383671322
+    second: ramen_bg_547
+  - first:
+      213: 4331246152499972129
+    second: ramen_bg_548
+  - first:
+      213: -4507384388202933866
+    second: ramen_bg_549
+  - first:
+      213: -1856500947756776949
+    second: ramen_bg_550
+  - first:
+      213: -6663116980842974792
+    second: ramen_bg_551
+  - first:
+      213: 4837944500427673862
+    second: ramen_bg_552
+  - first:
+      213: -8375069104235207205
+    second: ramen_bg_553
+  - first:
+      213: 5378599614617447847
+    second: ramen_bg_554
+  - first:
+      213: 4420266399691954035
+    second: ramen_bg_555
+  - first:
+      213: 84845702958681820
+    second: ramen_bg_556
+  - first:
+      213: -8725890891641751836
+    second: ramen_bg_557
+  - first:
+      213: -7669444429668398051
+    second: ramen_bg_558
+  - first:
+      213: 6481078697172086414
+    second: ramen_bg_559
+  - first:
+      213: -5070339599958818701
+    second: ramen_bg_560
+  - first:
+      213: 3208448369293960572
+    second: ramen_bg_561
+  - first:
+      213: 4539879658625179357
+    second: ramen_bg_562
+  - first:
+      213: -3826704323799014533
+    second: ramen_bg_563
+  - first:
+      213: 4411872312728969844
+    second: ramen_bg_564
+  - first:
+      213: 7752199087404906396
+    second: ramen_bg_565
+  - first:
+      213: 4087977485926663836
+    second: ramen_bg_566
+  - first:
+      213: 122550285760480027
+    second: ramen_bg_567
+  - first:
+      213: 4629146529372998964
+    second: ramen_bg_568
+  - first:
+      213: -1143505902807298216
+    second: ramen_bg_569
+  - first:
+      213: 273571109273997698
+    second: ramen_bg_570
+  - first:
+      213: 1107815241513884070
+    second: ramen_bg_571
+  - first:
+      213: 2459686801357384581
+    second: ramen_bg_572
+  - first:
+      213: 7804347554801017719
+    second: ramen_bg_573
+  - first:
+      213: -6738572144700302635
+    second: ramen_bg_574
+  - first:
+      213: 7627880976844074031
+    second: ramen_bg_575
+  - first:
+      213: 4346819320205087192
+    second: ramen_bg_576
+  - first:
+      213: 4286914836380606623
+    second: ramen_bg_577
+  - first:
+      213: -8627162256296213747
+    second: ramen_bg_578
+  - first:
+      213: -2187360105251632367
+    second: ramen_bg_579
+  - first:
+      213: -5255641443954874824
+    second: ramen_bg_580
+  - first:
+      213: 7723521544795366616
+    second: ramen_bg_581
+  - first:
+      213: 2696514005384221175
+    second: ramen_bg_582
+  - first:
+      213: 3605775632600569501
+    second: ramen_bg_583
+  - first:
+      213: 5310400626257588392
+    second: ramen_bg_584
+  - first:
+      213: -3263251502691787790
+    second: ramen_bg_585
+  - first:
+      213: 953619490280733648
+    second: ramen_bg_586
+  - first:
+      213: 4726667723755353020
+    second: ramen_bg_587
+  - first:
+      213: 2112634951646675695
+    second: ramen_bg_588
+  - first:
+      213: 8969716403390332217
+    second: ramen_bg_589
+  - first:
+      213: -6526089057097183087
+    second: ramen_bg_590
+  - first:
+      213: -8014738028468284095
+    second: ramen_bg_591
+  - first:
+      213: -7409009119158718804
+    second: ramen_bg_592
+  - first:
+      213: -4326744065569870915
+    second: ramen_bg_593
+  - first:
+      213: -8733539471716634806
+    second: ramen_bg_594
+  - first:
+      213: -1136625218531460469
+    second: ramen_bg_595
+  - first:
+      213: 1885146825368648047
+    second: ramen_bg_596
+  - first:
+      213: 1069487176683098211
+    second: ramen_bg_597
+  - first:
+      213: 7908969488352933920
+    second: ramen_bg_598
+  - first:
+      213: 4925008365316559025
+    second: ramen_bg_599
+  - first:
+      213: -5465285407608528197
+    second: ramen_bg_600
+  - first:
+      213: 5931750793130119304
+    second: ramen_bg_601
+  - first:
+      213: -5511103732101999244
+    second: ramen_bg_602
+  - first:
+      213: 6996441881833167720
+    second: ramen_bg_603
+  - first:
+      213: 8334983170157394482
+    second: ramen_bg_604
+  - first:
+      213: -2720270571511393807
+    second: ramen_bg_605
+  - first:
+      213: 5835838745114061158
+    second: ramen_bg_606
+  - first:
+      213: 1264343129349381384
+    second: ramen_bg_607
+  - first:
+      213: 3180409419155168748
+    second: ramen_bg_608
+  - first:
+      213: -5499377222178759999
+    second: ramen_bg_609
+  - first:
+      213: 2962388192855335860
+    second: ramen_bg_610
+  - first:
+      213: -4772115922141279179
+    second: ramen_bg_611
+  - first:
+      213: 1639024749934167674
+    second: ramen_bg_0
+  - first:
+      213: 8674701527538729445
+    second: ramen_bg_1
+  - first:
+      213: -6590121933016156782
+    second: ramen_bg_2
+  - first:
+      213: -9024230613916422223
+    second: ramen_bg_3
+  - first:
+      213: 832587279265676627
+    second: ramen_bg_4
+  - first:
+      213: 4811074319431057763
+    second: ramen_bg_5
+  - first:
+      213: -19450441128705727
+    second: ramen_bg_6
+  - first:
+      213: -2739335425908903999
+    second: ramen_bg_7
+  - first:
+      213: -4527466733170610536
+    second: ramen_bg_8
+  - first:
+      213: -15201927114958893
+    second: ramen_bg_9
+  - first:
+      213: 8948315952890844611
+    second: ramen_bg_10
+  - first:
+      213: 7972860478058821795
+    second: ramen_bg_11
+  - first:
+      213: -1598286092597817533
+    second: ramen_bg_12
+  - first:
+      213: 5578739611611258631
+    second: ramen_bg_13
+  - first:
+      213: -8471065305495285419
+    second: ramen_bg_14
+  - first:
+      213: 1051266686462139901
+    second: ramen_bg_15
+  - first:
+      213: -811105605893439917
+    second: ramen_bg_16
+  - first:
+      213: 750689915684682384
+    second: ramen_bg_17
+  - first:
+      213: 3047164949092194422
+    second: ramen_bg_18
+  - first:
+      213: -6505423247713813447
+    second: ramen_bg_19
+  - first:
+      213: 2423797459576173610
+    second: ramen_bg_20
+  - first:
+      213: 7535670544102573860
+    second: ramen_bg_21
+  - first:
+      213: -2713391448441380941
+    second: ramen_bg_22
+  - first:
+      213: 7464365363573946008
+    second: ramen_bg_23
+  - first:
+      213: -4702298427689534542
+    second: ramen_bg_24
+  - first:
+      213: 4251257755240321569
+    second: ramen_bg_25
+  - first:
+      213: 5160005569834671078
+    second: ramen_bg_26
+  - first:
+      213: -4232292191447300995
+    second: ramen_bg_27
+  - first:
+      213: -2753722801594849775
+    second: ramen_bg_28
+  - first:
+      213: 3337621842958699707
+    second: ramen_bg_29
+  - first:
+      213: 5112491702959605435
+    second: ramen_bg_30
+  - first:
+      213: -9003795172015206047
+    second: ramen_bg_31
+  - first:
+      213: 2208444535075368442
+    second: ramen_bg_32
+  - first:
+      213: -6536591146987968201
+    second: ramen_bg_33
+  - first:
+      213: -8618678772919796739
+    second: ramen_bg_34
+  - first:
+      213: 60737267120641914
+    second: ramen_bg_35
+  - first:
+      213: 3655251562544116139
+    second: ramen_bg_36
+  - first:
+      213: -3361392190655027724
+    second: ramen_bg_37
+  - first:
+      213: 8750079135431862673
+    second: ramen_bg_38
+  - first:
+      213: -9213011816223016903
+    second: ramen_bg_39
+  - first:
+      213: 3763302849042967498
+    second: ramen_bg_40
+  - first:
+      213: 2233745141045281554
+    second: ramen_bg_41
+  - first:
+      213: -1019646716199143064
+    second: ramen_bg_42
+  - first:
+      213: -3328536231260141194
+    second: ramen_bg_43
+  - first:
+      213: -1291769239512512283
+    second: ramen_bg_44
+  - first:
+      213: -4762069965479496378
+    second: ramen_bg_45
+  - first:
+      213: -8539069796435699299
+    second: ramen_bg_46
+  - first:
+      213: -5337254078957654311
+    second: ramen_bg_47
+  - first:
+      213: -5450256958330327930
+    second: ramen_bg_48
+  - first:
+      213: 2548381026559345821
+    second: ramen_bg_49
+  - first:
+      213: 4896123608822761145
+    second: ramen_bg_50
+  - first:
+      213: 131701698145180756
+    second: ramen_bg_51
+  - first:
+      213: 1566842503054602809
+    second: ramen_bg_52
+  - first:
+      213: 418943989233403601
+    second: ramen_bg_53
+  - first:
+      213: 1982177368108824416
+    second: ramen_bg_54
+  - first:
+      213: 7960353294353595000
+    second: ramen_bg_55
+  - first:
+      213: 923639149040983944
+    second: ramen_bg_56
+  - first:
+      213: 5426539237906026581
+    second: ramen_bg_57
+  - first:
+      213: 6826143014763503372
+    second: ramen_bg_58
+  - first:
+      213: 3220472213881894531
+    second: ramen_bg_59
+  - first:
+      213: -6581242547656604225
+    second: ramen_bg_60
+  - first:
+      213: 1822117276183772161
+    second: ramen_bg_61
+  - first:
+      213: -6613661447452035127
+    second: ramen_bg_62
+  - first:
+      213: -5316564287565947128
+    second: ramen_bg_63
+  - first:
+      213: -5336075792731958127
+    second: ramen_bg_64
+  - first:
+      213: 6910860886613124758
+    second: ramen_bg_65
+  - first:
+      213: 6505055634670878072
+    second: ramen_bg_66
+  - first:
+      213: -1938502102945754366
+    second: ramen_bg_67
+  - first:
+      213: 7331263324918902177
+    second: ramen_bg_68
+  - first:
+      213: 7500473932798951186
+    second: ramen_bg_69
+  - first:
+      213: 1101937630285099504
+    second: ramen_bg_70
+  - first:
+      213: 2602198909371066298
+    second: ramen_bg_71
+  - first:
+      213: -1602082596236649037
+    second: ramen_bg_72
+  - first:
+      213: -6640510062495706384
+    second: ramen_bg_73
+  - first:
+      213: 4123825173551390628
+    second: ramen_bg_74
+  - first:
+      213: 2241806093280382508
+    second: ramen_bg_75
+  - first:
+      213: 3612582660081308534
+    second: ramen_bg_76
+  - first:
+      213: -8852859099657120843
+    second: ramen_bg_77
+  - first:
+      213: -1235390502494027578
+    second: ramen_bg_78
+  - first:
+      213: 6055690379045478795
+    second: ramen_bg_79
+  - first:
+      213: -2475871735648189888
+    second: ramen_bg_80
+  - first:
+      213: 758847987861213326
+    second: ramen_bg_81
+  - first:
+      213: -8159586090280339134
+    second: ramen_bg_82
+  - first:
+      213: -7263943782747403096
+    second: ramen_bg_83
+  - first:
+      213: 3820940724159196067
+    second: ramen_bg_84
+  - first:
+      213: 6852867628520924518
+    second: ramen_bg_85
+  - first:
+      213: 5590841400045866339
+    second: ramen_bg_86
+  - first:
+      213: 1873516498316812128
+    second: ramen_bg_87
+  - first:
+      213: -7983203429126736487
+    second: ramen_bg_88
+  - first:
+      213: -7930617699764804579
+    second: ramen_bg_89
+  - first:
+      213: 6989189421882890308
+    second: ramen_bg_90
+  - first:
+      213: -8959967224734370429
+    second: ramen_bg_91
+  - first:
+      213: 1431978306723163182
+    second: ramen_bg_92
+  - first:
+      213: -8362266632287109619
+    second: ramen_bg_93
+  - first:
+      213: 7394033467086300986
+    second: ramen_bg_94
+  - first:
+      213: -4322439236551260857
+    second: ramen_bg_95
+  - first:
+      213: -8445636071541148887
+    second: ramen_bg_96
+  - first:
+      213: -7117608602039257027
+    second: ramen_bg_97
+  - first:
+      213: -6108361887762087139
+    second: ramen_bg_98
+  - first:
+      213: 44403270247341815
+    second: ramen_bg_99
+  - first:
+      213: 8321499113760834404
+    second: ramen_bg_100
+  - first:
+      213: -5746280402380393196
+    second: ramen_bg_101
+  - first:
+      213: -7329817216368098545
+    second: ramen_bg_102
+  - first:
+      213: -1844966405116328508
+    second: ramen_bg_103
+  - first:
+      213: -4979196010227040288
+    second: ramen_bg_104
+  - first:
+      213: 637221474313710077
+    second: ramen_bg_105
+  - first:
+      213: -14498190993091319
+    second: ramen_bg_106
+  - first:
+      213: 3935459615965947249
+    second: ramen_bg_107
+  - first:
+      213: -4728081339550398714
+    second: ramen_bg_108
+  - first:
+      213: -721136406902386003
+    second: ramen_bg_109
+  - first:
+      213: 8414875828737372160
+    second: ramen_bg_110
+  - first:
+      213: -5752822609262927838
+    second: ramen_bg_111
+  - first:
+      213: 5177109631666766460
+    second: ramen_bg_112
+  - first:
+      213: 1288123119775269726
+    second: ramen_bg_113
+  - first:
+      213: -7520301695872790076
+    second: ramen_bg_114
+  - first:
+      213: -607841690990438395
+    second: ramen_bg_115
+  - first:
+      213: -4330164429102311597
+    second: ramen_bg_116
+  - first:
+      213: -2604978187582085728
+    second: ramen_bg_117
+  - first:
+      213: 7099558180193319551
+    second: ramen_bg_118
+  - first:
+      213: -8156729408163676210
+    second: ramen_bg_119
+  - first:
+      213: -3720731239984397281
+    second: ramen_bg_120
+  - first:
+      213: 7230227985582713557
+    second: ramen_bg_121
+  - first:
+      213: 903917179135955626
+    second: ramen_bg_122
+  - first:
+      213: -4524294156652053830
+    second: ramen_bg_123
+  - first:
+      213: -8540160399153013147
+    second: ramen_bg_124
+  - first:
+      213: -7082455166929911912
+    second: ramen_bg_125
+  - first:
+      213: 6679609688281119448
+    second: ramen_bg_126
+  - first:
+      213: -865610514329818337
+    second: ramen_bg_127
+  - first:
+      213: 6719422633104294298
+    second: ramen_bg_128
+  - first:
+      213: -6261382042854251171
+    second: ramen_bg_129
+  - first:
+      213: 7955608302813739195
+    second: ramen_bg_130
+  - first:
+      213: 9189055969672019598
+    second: ramen_bg_131
+  - first:
+      213: 8465774249860521732
+    second: ramen_bg_132
+  - first:
+      213: 2587177621741928796
+    second: ramen_bg_133
+  - first:
+      213: 7735779330420301466
+    second: ramen_bg_134
+  - first:
+      213: 4882066233815451438
+    second: ramen_bg_135
+  - first:
+      213: 4228309216373820830
+    second: ramen_bg_136
+  - first:
+      213: 6018142065416285088
+    second: ramen_bg_137
+  - first:
+      213: 7111238256420617618
+    second: ramen_bg_138
+  - first:
+      213: 8206383814237610134
+    second: ramen_bg_139
+  - first:
+      213: 6013618489592426017
+    second: ramen_bg_140
+  - first:
+      213: 9082222023191109480
+    second: ramen_bg_141
+  - first:
+      213: 9116109345303510614
+    second: ramen_bg_142
+  - first:
+      213: 7070931351284680687
+    second: ramen_bg_143
+  - first:
+      213: 710564971391729675
+    second: ramen_bg_144
+  - first:
+      213: 1893225481822918406
+    second: ramen_bg_145
+  - first:
+      213: 947300319337666203
+    second: ramen_bg_146
+  - first:
+      213: 4737392109206119827
+    second: ramen_bg_147
+  - first:
+      213: -5154903739412113437
+    second: ramen_bg_148
+  - first:
+      213: 4535763200209455701
+    second: ramen_bg_149
+  - first:
+      213: -8798635301248904692
+    second: ramen_bg_150
+  - first:
+      213: -920626312008899877
+    second: ramen_bg_151
+  - first:
+      213: 5700212357689465102
+    second: ramen_bg_152
+  - first:
+      213: -4177203939943631451
+    second: ramen_bg_153
+  - first:
+      213: -8169770123611286829
+    second: ramen_bg_154
+  - first:
+      213: -1533452831735510418
+    second: ramen_bg_155
+  - first:
+      213: -3191535688106526187
+    second: ramen_bg_156
+  - first:
+      213: -3027972143662245505
+    second: ramen_bg_157
+  - first:
+      213: -5641329794236951311
+    second: ramen_bg_158
+  - first:
+      213: -9217110788131238517
+    second: ramen_bg_159
+  - first:
+      213: -5908720847766924485
+    second: ramen_bg_160
+  - first:
+      213: -7341761533181000323
+    second: ramen_bg_161
+  - first:
+      213: 2124645436198083869
+    second: ramen_bg_162
+  - first:
+      213: -4511828584792576042
+    second: ramen_bg_163
+  - first:
+      213: 6339705439398335426
+    second: ramen_bg_164
+  - first:
+      213: -9031719362019186079
+    second: ramen_bg_165
+  - first:
+      213: -564085809111090591
+    second: ramen_bg_166
+  - first:
+      213: -1990882809561134802
+    second: ramen_bg_167
+  - first:
+      213: 4697743706181077508
+    second: ramen_bg_168
+  - first:
+      213: 92241863513941929
+    second: ramen_bg_169
+  - first:
+      213: 7057407645980892744
+    second: ramen_bg_170
+  - first:
+      213: 7007959237252888097
+    second: ramen_bg_171
+  - first:
+      213: 3158868025510832775
+    second: ramen_bg_172
+  - first:
+      213: -4828947600153789153
+    second: ramen_bg_173
+  - first:
+      213: -5187284676063890200
+    second: ramen_bg_174
+  - first:
+      213: -6904432917906778130
+    second: ramen_bg_175
+  - first:
+      213: -7241074051898538306
+    second: ramen_bg_176
+  - first:
+      213: 6901252801876632391
+    second: ramen_bg_177
+  - first:
+      213: 3896242278042142961
+    second: ramen_bg_178
+  - first:
+      213: -7167263634893814854
+    second: ramen_bg_179
+  - first:
+      213: 6721853324499471527
+    second: ramen_bg_180
+  - first:
+      213: -5072728080626569703
+    second: ramen_bg_181
+  - first:
+      213: -71604912192897055
+    second: ramen_bg_182
+  - first:
+      213: -8806647177862865714
+    second: ramen_bg_183
+  - first:
+      213: -3844675286668690710
+    second: ramen_bg_184
+  - first:
+      213: 4075054395064056153
+    second: ramen_bg_185
+  - first:
+      213: -2545424442382434351
+    second: ramen_bg_186
+  - first:
+      213: -5294572312973504007
+    second: ramen_bg_187
+  - first:
+      213: 7144845686461220480
+    second: ramen_bg_188
+  - first:
+      213: 4444964512611175208
+    second: ramen_bg_189
+  - first:
+      213: 5966257611252692695
+    second: ramen_bg_190
+  - first:
+      213: -2336114117434342325
+    second: ramen_bg_191
+  - first:
+      213: -1640127402524200180
+    second: ramen_bg_192
+  - first:
+      213: -1000151282880293650
+    second: ramen_bg_193
+  - first:
+      213: -7821999095156189644
+    second: ramen_bg_194
+  - first:
+      213: 3155317717751762456
+    second: ramen_bg_195
+  - first:
+      213: -2421471798615178195
+    second: ramen_bg_196
+  - first:
+      213: 5105073265301233773
+    second: ramen_bg_197
+  - first:
+      213: 1330426691373665009
+    second: ramen_bg_198
+  - first:
+      213: 5227309036869581564
+    second: ramen_bg_199
+  - first:
+      213: -5597511299667537359
+    second: ramen_bg_200
+  - first:
+      213: 1504074300985278584
+    second: ramen_bg_201
+  - first:
+      213: -1809177722939926864
+    second: ramen_bg_202
+  - first:
+      213: -2576614699257419483
+    second: ramen_bg_203
+  - first:
+      213: -8326768996262404780
+    second: ramen_bg_204
+  - first:
+      213: -676265120737080208
+    second: ramen_bg_205
+  - first:
+      213: 6485060040618145111
+    second: ramen_bg_206
+  - first:
+      213: 4487476096739476497
+    second: ramen_bg_207
+  - first:
+      213: -9140612221144091753
+    second: ramen_bg_208
+  - first:
+      213: 5782808838739564873
+    second: ramen_bg_209
+  - first:
+      213: 1384979388174359760
+    second: ramen_bg_210
+  - first:
+      213: -8097863568790069940
+    second: ramen_bg_211
+  - first:
+      213: 6602693992236084164
+    second: ramen_bg_212
+  - first:
+      213: 6226421227854426073
+    second: ramen_bg_213
+  - first:
+      213: 8141788917704030638
+    second: ramen_bg_214
+  - first:
+      213: 5086697770744558846
+    second: ramen_bg_215
+  - first:
+      213: -6597633918287387854
+    second: ramen_bg_216
+  - first:
+      213: -5426561291153579479
+    second: ramen_bg_217
+  - first:
+      213: -3767443044164849474
+    second: ramen_bg_218
+  - first:
+      213: -2814216898374598184
+    second: ramen_bg_219
+  - first:
+      213: -5449735358511107067
+    second: ramen_bg_220
+  - first:
+      213: 5932722451510069088
+    second: ramen_bg_221
+  - first:
+      213: -1237531839178067539
+    second: ramen_bg_222
+  - first:
+      213: -6896559748214122114
+    second: ramen_bg_223
+  - first:
+      213: 2641567406204787308
+    second: ramen_bg_224
+  - first:
+      213: -1037613531320390443
+    second: ramen_bg_225
+  - first:
+      213: 8535984297643855119
+    second: ramen_bg_226
+  - first:
+      213: 7166436545309461098
+    second: ramen_bg_227
+  - first:
+      213: 4419840244015220833
+    second: ramen_bg_228
+  - first:
+      213: -2694614422918468700
+    second: ramen_bg_229
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.49488306, y: 0.47972944}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ramen_bg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7646ed735cfeb610800000000000000
+      internalID: 1639024749934167674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e10c79241bb26870800000000000000
+      internalID: 8674701527538729445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295bf04940f2b84a0800000000000000
+      internalID: -6590121933016156782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf6e4ea11e73c280800000000000000
+      internalID: -9024230613916422223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35db32128b1fd8b00800000000000000
+      internalID: 832587279265676627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36141b57a9e54c240800000000000000
+      internalID: 4811074319431057763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1418cc54de5eabff0800000000000000
+      internalID: -19450441128705727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf6e0a91fcebf9d0800000000000000
+      internalID: -2739335425908903999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ea7f46ef43b21c0800000000000000
+      internalID: -4527466733170610536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d759668dedf9cff0800000000000000
+      internalID: -15201927114958893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5150ee2fdce2c70800000000000000
+      internalID: 8948315952890844611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8727edc5a45ae60800000000000000
+      internalID: 7972860478058821795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f8241544fb1d9e0800000000000000
+      internalID: -1598286092597817533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f5d7c8e1aab6d40800000000000000
+      internalID: 5578739611611258631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55151dc7cfab07a80800000000000000
+      internalID: -8471065305495285419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd17c24b79d69e00800000000000000
+      internalID: 1051266686462139901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eb465bfbf5eb4f0800000000000000
+      internalID: -811105605893439917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a7ad0408cfa6a00800000000000000
+      internalID: 750689915684682384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67859aa6064b94a20800000000000000
+      internalID: 3047164949092194422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_19
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c337ef50818b5a0800000000000000
+      internalID: -6505423247713813447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24388992fe03a120800000000000000
+      internalID: 2423797459576173610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_21
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427cb952f64149860800000000000000
+      internalID: 7535670544102573860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_22
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 997
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf91139ad8185ad0800000000000000
+      internalID: -2713391448441380941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896fd8110c0c69760800000000000000
+      internalID: 7464365363573946008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbffad6e741ebeb0800000000000000
+      internalID: -4702298427689534542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12259bd77608ffa30800000000000000
+      internalID: 4251257755240321569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb58051ab50c9740800000000000000
+      internalID: 5160005569834671078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74cf1feca0e345c0800000000000000
+      internalID: -4232292191447300995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116ab09a3bfc8c9d0800000000000000
+      internalID: -2753722801594849775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc4328f16d915e20800000000000000
+      internalID: 3337621842958699707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_30
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb60a00ed1833f640800000000000000
+      internalID: 5112491702959605435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16118a5cef71c0380800000000000000
+      internalID: -9003795172015206047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_32
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afde1539a98f5ae10800000000000000
+      internalID: 2208444535075368442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_33
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739a1d1fbfc5945a0800000000000000
+      internalID: -6536591146987968201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_34
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb7aead15d446880800000000000000
+      internalID: -8618678772919796739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_35
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a779a5ff838c7d000800000000000000
+      internalID: 60737267120641914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_36
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba132260eef0ab230800000000000000
+      internalID: 3655251562544116139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f52c3dac9fe951d0800000000000000
+      internalID: -3361392190655027724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_38
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19929ff1d968e6970800000000000000
+      internalID: 8750079135431862673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_39
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938fc86d09ec42080800000000000000
+      internalID: -9213011816223016903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_40
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbeb6b9000f93430800000000000000
+      internalID: 3763302849042967498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_41
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21342c2fe5bdffe10800000000000000
+      internalID: 2233745141045281554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_42
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8697e84c6bc79d1f0800000000000000
+      internalID: -1019646716199143064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_43
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679c8b9dee9aec1d0800000000000000
+      internalID: -3328536231260141194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_44
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8841388b6b21ee0800000000000000
+      internalID: -1291769239512512283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_45
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 897
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645b900d89ab9edb0800000000000000
+      internalID: -4762069965479496378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99de2713412f7980800000000000000
+      internalID: -8539069796435699299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de69b371b34ee5b0800000000000000
+      internalID: -5337254078957654311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cae105c2ccc54b0800000000000000
+      internalID: -5450256958330327930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d944a60ba0bad5320800000000000000
+      internalID: 2548381026559345821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6c8404b7682f340800000000000000
+      internalID: 4896123608822761145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_51
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c52462ff5e3d100800000000000000
+      internalID: 131701698145180756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_52
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932bd8d74fa8eb510800000000000000
+      internalID: 1566842503054602809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_53
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6ca0ba65360d500800000000000000
+      internalID: 418943989233403601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067f1f370db128b10800000000000000
+      internalID: 1982177368108824416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_55
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a7e8c352bd87e60800000000000000
+      internalID: 7960353294353595000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_56
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f5b3399ec61dc00800000000000000
+      internalID: 923639149040983944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_57
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5509b139fa0fe4b40800000000000000
+      internalID: 5426539237906026581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_58
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f1efcc7e45bbe50800000000000000
+      internalID: 6826143014763503372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_59
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386327d6a6a61bc20800000000000000
+      internalID: 3220472213881894531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_60
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5cd3695cabaa4a0800000000000000
+      internalID: -6581242547656604225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_61
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c390a3206794910800000000000000
+      internalID: 1822117276183772161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_62
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7fce744fd8734a0800000000000000
+      internalID: -6613661447452035127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_63
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f9a16e2f4c736b0800000000000000
+      internalID: -5316564287565947128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_64
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19496a7965372f5b0800000000000000
+      internalID: -5336075792731958127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_65
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69667be6c5f48ef50800000000000000
+      internalID: 6910860886613124758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_66
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87df5bc62a9964a50800000000000000
+      internalID: 6505055634670878072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_67
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2031295ab9e0915e0800000000000000
+      internalID: -1938502102945754366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_68
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 797
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ade3acb621edb560800000000000000
+      internalID: 7331263324918902177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ffe8b7d49071860800000000000000
+      internalID: 7500473932798951186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_70
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f177c9bf6eda4f00800000000000000
+      internalID: 1101937630285099504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_71
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7a8fbfe1edc1420800000000000000
+      internalID: 2602198909371066298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_72
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd9a7eed5244c9e0800000000000000
+      internalID: -1602082596236649037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f25985f74b28d3a0800000000000000
+      internalID: -6640510062495706384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_74
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af18597525ca3930800000000000000
+      internalID: 4123825173551390628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_75
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e8845a3ce7c1f10800000000000000
+      internalID: 2241806093280382508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_76
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673d1eff9c8722230800000000000000
+      internalID: 3612582660081308534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_77
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b35a56ad83542580800000000000000
+      internalID: -8852859099657120843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_78
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0c3f322e20bdee0800000000000000
+      internalID: -1235390502494027578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_79
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81a1c8b0522a0450800000000000000
+      internalID: 6055690379045478795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_80
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042824f26cfe3add0800000000000000
+      internalID: -2475871735648189888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_81
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80dcf27938f78a00800000000000000
+      internalID: 758847987861213326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_82
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2493f96aea353ce80800000000000000
+      internalID: -8159586090280339134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_83
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac0fe89d99413b90800000000000000
+      internalID: -7263943782747403096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_84
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab255b2855b60530800000000000000
+      internalID: 3820940724159196067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_85
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66563c2dcc64a1f50800000000000000
+      internalID: 6852867628520924518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_86
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d084db1a8a69d40800000000000000
+      internalID: 5590841400045866339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_87
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fd1033451100a10800000000000000
+      internalID: 1873516498316812128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_88
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995783d27c6f53190800000000000000
+      internalID: -7983203429126736487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_89
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14e7146839c0f190800000000000000
+      internalID: -7930617699764804579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_90
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4485f37bfb69ef060800000000000000
+      internalID: 6989189421882890308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_91
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 697
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385b092f74dc7a380800000000000000
+      internalID: -8959967224734370429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cac4adea86fd310800000000000000
+      internalID: 1431978306723163182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_93
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ebc699dc243fb80800000000000000
+      internalID: -8362266632287109619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_94
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3767075342ec9660800000000000000
+      internalID: 7394033467086300986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_95
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745c6266a6c9304c0800000000000000
+      internalID: -4322439236551260857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_96
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92370956db21bca80800000000000000
+      internalID: -8445636071541148887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_97
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d387f29efac293d90800000000000000
+      internalID: -7117608602039257027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_98
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1308600a3dba3ba0800000000000000
+      internalID: -6108361887762087139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_99
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe55fdf980cd9000800000000000000
+      internalID: 44403270247341815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_100
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4634172da57eb7370800000000000000
+      internalID: 8321499113760834404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_101
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415f35c4b6c1140b0800000000000000
+      internalID: -5746280402380393196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_102
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0346d5a312474a90800000000000000
+      internalID: -7329817216368098545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_103
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5038064dc5566e0800000000000000
+      internalID: -1844966405116328508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_104
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efff5f0c9756eab0800000000000000
+      internalID: -4979196010227040288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_105
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df928b30e8dd7d800800000000000000
+      internalID: 637221474313710077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_106
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90598fbd8fd7ccff0800000000000000
+      internalID: -14498190993091319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_107
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175ab857baf8d9630800000000000000
+      internalID: 3935459615965947249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_108
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60702f6721b726eb0800000000000000
+      internalID: -4728081339550398714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_109
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da25bf732420ef5f0800000000000000
+      internalID: -721136406902386003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_110
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00079e87bf4a7c470800000000000000
+      internalID: 8414875828737372160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_111
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2202c0f015ed920b0800000000000000
+      internalID: -5752822609262927838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_112
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7240cec7c9c8d740800000000000000
+      internalID: 5177109631666766460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_113
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e534c25172550e110800000000000000
+      internalID: 1288123119775269726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_114
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 597
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c11cbda37582a790800000000000000
+      internalID: -7520301695872790076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50897d8d3338097f0800000000000000
+      internalID: -607841690990438395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_116
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3571358d46a28e3c0800000000000000
+      internalID: -4330164429102311597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_117
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a56781e32249dbd0800000000000000
+      internalID: -2604978187582085728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_118
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a34a0cc82b68260800000000000000
+      internalID: 7099558180193319551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_119
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecffb69c1d97dce80800000000000000
+      internalID: -8156729408163676210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_120
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14080886ae4d5cc0800000000000000
+      internalID: -3720731239984397281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_121
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daeeb5ab0ee65460800000000000000
+      internalID: 7230227985582713557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_122
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa295c0a2eb5b8c00800000000000000
+      internalID: 903917179135955626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_123
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf06d6f6a7631c0800000000000000
+      internalID: -4524294156652053830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_124
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e50ab5d514b7980800000000000000
+      internalID: -8540160399153013147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_125
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f3385dc8016bd90800000000000000
+      internalID: -7082455166929911912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_126
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daf0441f9db2bc50800000000000000
+      internalID: 6679609688281119448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_127
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b278bc2dbbcf3f0800000000000000
+      internalID: -865610514329818337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_128
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91c6e5a84f204d50800000000000000
+      internalID: 6719422633104294298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_129
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55a9acc43a1b19a0800000000000000
+      internalID: -6261382042854251171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_130
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb87c5dc99ff76e60800000000000000
+      internalID: 7955608302813739195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_131
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ebb7df7b5168f70800000000000000
+      internalID: 9189055969672019598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_132
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fd59f93d87c7570800000000000000
+      internalID: 8465774249860521732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_133
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5184cae65087e320800000000000000
+      internalID: 2587177621741928796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_134
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ed28aa0520b5b60800000000000000
+      internalID: 7735779330420301466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_135
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27cf749f5590c340800000000000000
+      internalID: 4882066233815451438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_136
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dc87a64d8fdaa30800000000000000
+      internalID: 4228309216373820830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_137
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab29f0b25cb48350800000000000000
+      internalID: 6018142065416285088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d7e1b648130b260800000000000000
+      internalID: 7111238256420617618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_139
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690e52a899ee2e170800000000000000
+      internalID: 8206383814237610134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_140
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ea0ee972aa47350800000000000000
+      internalID: 6013618489592426017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_141
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f19877fc88a0e70800000000000000
+      internalID: 9082222023191109480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_142
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e3f6c762de28e70800000000000000
+      internalID: 9116109345303510614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_143
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe70f70c99ef02260800000000000000
+      internalID: 7070931351284680687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_144
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00c3a5a31f6cd900800000000000000
+      internalID: 710564971391729675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_145
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607d5c38b86164a10800000000000000
+      internalID: 1893225481822918406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_146
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b965cb51f9c752d00800000000000000
+      internalID: 947300319337666203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_147
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39528f606099eb140800000000000000
+      internalID: 4737392109206119827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_148
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e712016c5a1678b0800000000000000
+      internalID: -5154903739412113437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_149
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a06cd599442fe30800000000000000
+      internalID: 4535763200209455701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_150
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02d8d88fc7f4e580800000000000000
+      internalID: -8798635301248904692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_151
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2e4d53f374933f0800000000000000
+      internalID: -920626312008899877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_152
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e095f5430f83b1f40800000000000000
+      internalID: 5700212357689465102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_153
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a53c4df5279706c0800000000000000
+      internalID: -4177203939943631451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_154
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2dc8d9b552f9e80800000000000000
+      internalID: -8169770123611286829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_155
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a869c26c418bae0800000000000000
+      internalID: -1533452831735510418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_156
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51abd6e733365b3d0800000000000000
+      internalID: -3191535688106526187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_157
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79db33d06b7af5d0800000000000000
+      internalID: -3027972143662245505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_158
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4dda1f078f5b1b0800000000000000
+      internalID: -5641329794236951311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_159
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d4402929e361080800000000000000
+      internalID: -9217110788131238517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_160
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 397
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3358e7d1b1000ea0800000000000000
+      internalID: -5908720847766924485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d758e1da8c2dc1a90800000000000000
+      internalID: -7341761533181000323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_162
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ddd3274c14c7d10800000000000000
+      internalID: 2124645436198083869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_163
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df2cfb8ec3c261c0800000000000000
+      internalID: -4511828584792576042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_164
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c313f702882bf750800000000000000
+      internalID: 6339705439398335426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_165
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a24d3a713e8a280800000000000000
+      internalID: -9031719362019186079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_166
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a381df1f6fb28f0800000000000000
+      internalID: -564085809111090591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_167
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e294da202a6fe54e0800000000000000
+      internalID: -1990882809561134802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_168
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a00c4d20db13140800000000000000
+      internalID: 4697743706181077508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_169
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a72b247c75b74100800000000000000
+      internalID: 92241863513941929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_170
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e11ddbcd2f0f160800000000000000
+      internalID: 7057407645980892744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_171
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12630e8ebc5414160800000000000000
+      internalID: 7007959237252888097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_172
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aa9e89bbd86db20800000000000000
+      internalID: 3158868025510832775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_173
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dbbd51eb12cfcb0800000000000000
+      internalID: -4828947600153789153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_174
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4726e02101308b0800000000000000
+      internalID: -5187284676063890200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_175
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee717a8a7d68e20a0800000000000000
+      internalID: -6904432917906778130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_176
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb60a40c389828b90800000000000000
+      internalID: -7241074051898538306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_177
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743a601ebdc26cf50800000000000000
+      internalID: 6901252801876632391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_178
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f88f8d65bb321630800000000000000
+      internalID: 3896242278042142961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_179
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab34496a2b3c88c90800000000000000
+      internalID: -7167263634893814854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_180
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acc1171cf1d84d50800000000000000
+      internalID: 6721853324499471527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_181
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eaa18efac0a99b0800000000000000
+      internalID: -5072728080626569703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_182
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efb19436bb910ff0800000000000000
+      internalID: -71604912192897055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_183
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc99452d0188c580800000000000000
+      internalID: -8806647177862865714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeab36d5238f4aac0800000000000000
+      internalID: -3844675286668690710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_185
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959ff2ab1608d8830800000000000000
+      internalID: 4075054395064056153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_186
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfb235b4f5dcacd0800000000000000
+      internalID: -2545424442382434351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_187
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1989f7886e586b0800000000000000
+      internalID: -5294572312973504007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_188
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086c08cfb47972360800000000000000
+      internalID: 7144845686461220480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_189
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b086d7cafafad30800000000000000
+      internalID: 4444964512611175208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_190
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6ff25dfa76cc250800000000000000
+      internalID: 5966257611252692695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_191
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b440d836694749fd0800000000000000
+      internalID: -2336114117434342325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_192
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03392231d81d39e0800000000000000
+      internalID: -1640127402524200180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_193
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4d44e05bfbe12f0800000000000000
+      internalID: -1000151282880293650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_194
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436d9c3044da27390800000000000000
+      internalID: -7821999095156189644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_195
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e07182fb0f9cb20800000000000000
+      internalID: 3155317717751762456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_196
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d248ae98a34356ed0800000000000000
+      internalID: -2421471798615178195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_197
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60af92461dd8d640800000000000000
+      internalID: 5105073265301233773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_198
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa8603e600a67210800000000000000
+      internalID: 1330426691373665009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_199
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfafcc1afd12b8840800000000000000
+      internalID: 5227309036869581564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_200
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132d41d3125a152b0800000000000000
+      internalID: -5597511299667537359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_201
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870850a9b9b8fd410800000000000000
+      internalID: 1504074300985278584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_202
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b69d98427284e6e0800000000000000
+      internalID: -1809177722939926864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_203
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52926bf15960e3cd0800000000000000
+      internalID: -2576614699257419483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_204
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d1b0b07bf517c80800000000000000
+      internalID: -8326768996262404780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_205
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cca78a47c6d96f0800000000000000
+      internalID: -676265120737080208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_206
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755ff146fbf8ff950800000000000000
+      internalID: 6485060040618145111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114863cfbb7b64e30800000000000000
+      internalID: 4487476096739476497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_208
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793bc192d95062180800000000000000
+      internalID: -9140612221144091753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_209
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9499f0d000aa04050800000000000000
+      internalID: 5782808838739564873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_210
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcde556a6f683310800000000000000
+      internalID: 1384979388174359760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_211
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dd0be0dfb9e9f80800000000000000
+      internalID: -8097863568790069940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_212
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb66df043b71ab50800000000000000
+      internalID: 6602693992236084164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_213
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfe6342e11b86650800000000000000
+      internalID: 6226421227854426073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_214
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9f5f332e17df070800000000000000
+      internalID: 8141788917704030638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_215
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef430090ca4979640800000000000000
+      internalID: 5086697770744558846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_216
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233696638ee7074a0800000000000000
+      internalID: -6597633918287387854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_217
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922e7e0c14bf0b4b0800000000000000
+      internalID: -5426561291153579479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_218
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0b909138a57bbc0800000000000000
+      internalID: -3767443044164849474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_219
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d10b7b24a4e1f8d0800000000000000
+      internalID: -2814216898374598184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_220
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5043f0cb096ae54b0800000000000000
+      internalID: -5449735358511107067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_221
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0670e3103a3455250800000000000000
+      internalID: 5932722451510069088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_222
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da13e87595763dee0800000000000000
+      internalID: -1237531839178067539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_223
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e799073d27f7a40a0800000000000000
+      internalID: -6896559748214122114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_224
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a16117f8bb8a420800000000000000
+      internalID: 2641567406204787308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_225
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc6283adf7a991f0800000000000000
+      internalID: -1037613531320390443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_226
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dcf5d3e78e57670800000000000000
+      internalID: 8535984297643855119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_227
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a4c8c811c447360800000000000000
+      internalID: 7166436545309461098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_228
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168c08cd84d665d30800000000000000
+      internalID: 4419840244015220833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bg_229
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 97
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abec43857eca9ad0800000000000000
+      internalID: -2694614422918468700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
